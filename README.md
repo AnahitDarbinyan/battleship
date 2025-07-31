@@ -1,7 +1,14 @@
-# Battleship Game in Python 
+# 🚢 Battleship Game in Python
 
-A classic terminal-based Battleship game implemented in Python using Object-Oriented Programming principles. 
-Play against another player and try to sink all their ships!
+[![Python Version](https://img.shields.io/badge/Python-3.6%2B-blue.svg)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+![Game Preview](assets/battleship_preview.png)
+
+A **classic terminal-based Battleship game** built with Python and Object-Oriented Programming (OOP) principles.  
+🎯 Play head-to-head with another player and sink their fleet before they sink yours!
+
+---
 
 ## 📁 Project Structure
 
@@ -86,3 +93,5 @@ python main.py
 
 * [ ] GUI with `pygame`
 * [ ] Save the overall count
+
+Feel free to fork, contribute, or use this project as a foundation for learning object-oriented design in Python!
